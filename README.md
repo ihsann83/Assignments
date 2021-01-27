@@ -1,2 +1,2 @@
 # Assignments - Python
-Clarusway-Assignments-Python
+Clarusway-Assignments-
